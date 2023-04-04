@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-//env.component="shipping"
-//env.app_lang = "maven"
+//env.component="user"
+env.app_lang = "nodejs"
 
 ci()
