@@ -3,4 +3,6 @@
 env.component="user"
 env.app_lang = "nodejs"
 
-ci()
+//ci()
+
+ci_scripted()
